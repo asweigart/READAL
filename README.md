@@ -5,8 +5,6 @@ Last updated Feb 2016
 
 # I see you have a GitHub account, Al. What're all these projects?
 
-I am the original creator and principal author of all of these repos. In order of significance:
-
 ## pyautogui https://github.com/asweigart/pyautogui
 
 PyAutoGUI is a cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard. I created this since there didn't seem to be a GUI automation module that worked on all OSes and Python 2 & 3. I featured in [chapter 18 of my book, Automate the Boring Stuff with Python](https://automatetheboringstuffwithpython.com). According to [its page on PyPI](https://pypi.python.org/pypi/PyAutoGUI) it gets about 10,000 downloads a month. [Documentation](https://pyautogui.readthedocs.org/en/latest/)
