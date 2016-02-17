@@ -1,5 +1,5 @@
 # ReadAl
-A readme for Al's GitHub repos. (Resume supplement)
+A readme for Al's GitHub repos. This supplements my resume.
 
 Last updated Feb 2016
 
