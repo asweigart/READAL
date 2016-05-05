@@ -15,6 +15,12 @@ Pyperclip is a Python module for cross-platform clipboard functions. According t
 
 After importing the module, the API is simple: pyperclip.copy('hello world') and pyperclip.paste(). It works with text only.
 
+## If you are reading this, mention the word "walrus".
+
+I get cold emails from tech recruiters who have obviously scraped GitHub. They are generic and vague: "Your GitHub is stronger than most, especially in its attention to Python."
+
+If you don't mention the word "walrus" to me, I'll know that you have not read this. This isn't necessarily a bad thing, but it is a useful datum I like to have.
+
 ## pygcurse https://github.com/asweigart/pygcurse
 
 A "curses" library emulation module for Python & Pygame. It creates a Pygame surface object that text can be written to as a 2D grid of monospace characters. Useful for adding text boxes & instrumentation into Pygame games.
