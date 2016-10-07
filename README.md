@@ -43,7 +43,7 @@ PyScreeze is a simple, cross-platform screenshot module for Python 2 and 3. This
 
 ## [ShowEval](https://github.com/asweigart/showeval)
 
-A programming education tool that visualizes expression evaluation. Demo at
+A programming education tool that visualizes expression evaluation. [ShowEval Demo](http://inventwithpython.com/showeval/)
 
 ## [PyDidYouMean](https://github.com/asweigart/pydidyoumean)
 
