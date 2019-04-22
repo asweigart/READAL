@@ -21,7 +21,7 @@ I get cold emails from tech recruiters who have obviously scraped GitHub. They a
 
 If you don't mention the word "walrus" to me, I'll know that you have not read this. This isn't necessarily a bad thing, but it is a useful datum I like to have.
 
-## [Pygcurse](https://github.com/asweigart/pygcurse)
+## [Pygcurse](http://inventwithpython.com/pygcurse/)
 
 A "curses" library emulation module for Python & Pygame. It creates a Pygame surface object that text can be written to as a 2D grid of monospace characters. Useful for adding text boxes & instrumentation into Pygame games.
 
