@@ -7,7 +7,7 @@ Last updated Feb 2016
 
 ## [PyAutoGUI]( https://github.com/asweigart/pyautogui)
 
-PyAutoGUI is a cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard. I created this since there didn't seem to be a GUI automation module that worked on all OSes and Python 2 & 3. I featured in [chapter 18 of my book, Automate the Boring Stuff with Python](https://automatetheboringstuffwithpython.com). According to [its page on PyPI](https://pypi.python.org/pypi/PyAutoGUI) it gets about 10,000 downloads a month. [Documentation](https://pyautogui.readthedocs.org/en/latest/)
+PyAutoGUI is a cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard. I created this since there didn't seem to be a GUI automation module that worked on all OSes and Python 2 & 3. I featured in [chapter 18 of my book, Automate the Boring Stuff with Python](https://automatetheboringstuff.com/). According to [its page on PyPI](https://pypi.python.org/pypi/PyAutoGUI) it gets about 10,000 downloads a month. [Documentation](https://pyautogui.readthedocs.org/en/latest/)
 
 ## [Pyperclip](https://github.com/asweigart/pyperclip)
 
